@@ -2,7 +2,7 @@
 rm(list=ls()) 
 
 # Sets the working directory
-setwd("~/Documents/quants") 
+setwd("~/Documents/HIST1505") 
 
 # Install/load packages
 install.packages("tidyverse")
